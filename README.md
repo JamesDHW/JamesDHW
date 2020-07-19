@@ -1,1 +1,1 @@
-### Hi there - welcome to my Github page! 👋
+### Hi there - thanks for visiting my Github page! 👋
