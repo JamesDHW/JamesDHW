@@ -2,13 +2,13 @@
 
 ### ...analytical projects, Python, cleaning data...
 
-<p align="center" style="vertical-align: middle;">
+<p align="center" style="display:flex; align-items:center;">
   <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img5.png" width="400">
   <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" width="200">
   <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" width="200">
 </p>
 
-### >...mobile apps, Android, Ionic, REST APIs...
+### &nbsp;&nbsp;...mobile apps, Android, Ionic, REST APIs...
 
 <!-- <div style="box-sizing: border-box; float: left; width: 50%;">
   <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img2.png" width="200">
@@ -19,13 +19,13 @@
   <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img2.png" width="200">
 </p>
 
-### >>...natural language understanding...
+### ...natural language understanding...
 
 <p align="center">
   <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img3.png" width="600">
 </p>
 
-### >>>...and some machine learning.
+### ...and some machine learning.
 
 <p align="center">
   <img style="display:inline-block" src="https://github.com/JamesDHW/JamesDHW/blob/master/img4.png" width="400">
