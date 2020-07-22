@@ -23,7 +23,7 @@
 
 ### ...natural language understanding...
 
-
+<img src="https://github.com/JamesDHW/JamesDHW/blob/master/img3.png" width="400">
 
 ### ...machine learning...
 
