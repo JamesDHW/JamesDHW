@@ -23,11 +23,11 @@
 
 ### ...natural language understanding...
 
-<img src="https://github.com/JamesDHW/JamesDHW/blob/master/img3.png" width="400">
+<img src="https://github.com/JamesDHW/JamesDHW/blob/master/img3.png" width="600">
 
 ### ...machine learning...
-<div style="width:100%; align-items:center;">
-  <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img4.png" width="500">
+<div style="width:100%; align-content:center;">
+  <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img4.png" width="400">
 </div>
 
 
