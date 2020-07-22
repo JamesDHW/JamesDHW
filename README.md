@@ -8,7 +8,7 @@
   <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" width="200">
 </p>
 
-### &nbsp;&nbsp;...mobile apps, Android, Ionic, REST APIs...
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...mobile apps, Android, Ionic, REST APIs...
 
 <!-- <div style="box-sizing: border-box; float: left; width: 50%;">
   <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img2.png" width="200">
