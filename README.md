@@ -27,7 +27,7 @@
 
 ### ...machine learning...
 <div style="display: flex;">
-  <img style="margin: auto;" src="https://github.com/JamesDHW/JamesDHW/blob/master/img4.png" width="400">
+  <img style="margin: auto; width: 100%" src="https://github.com/JamesDHW/JamesDHW/blob/master/img4.png" width="400">
 </div>
 
 
