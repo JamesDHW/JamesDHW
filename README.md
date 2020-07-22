@@ -4,7 +4,7 @@
 
 ### ...analytical projects, Python, cleaning data...
 
-<div style="display: table;">
+<div style="display: table; content: ""; clear: both;">
   <div style="width: 50%">
     <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png" style="width: 50%">
   </div>
