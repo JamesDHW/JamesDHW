@@ -6,11 +6,11 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png" alt="Snow" style="width:100%">
+    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png">
   </div>
   <div class="column">
-    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" alt="Forest" style="width:100%">
-    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" style="width:100%">
+    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png">
+    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png">
   </div>
 </div>
 
