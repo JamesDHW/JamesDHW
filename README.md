@@ -4,10 +4,10 @@
 
 ### ...analytical projects, Python, cleaning data...
 
-<div style="display:inline-block;">
+<div style="display:inline-block; float: left;">
   <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png" width="400">
 </div>
-<div style="display:inline-block;">
+<div style="display:inline-block; float: left;">
   <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" width="300">
   <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" width="300">
 </div>
