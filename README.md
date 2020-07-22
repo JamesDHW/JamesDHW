@@ -10,13 +10,10 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...mobile apps, Android, Ionic, REST APIs...
 
-<!-- <div style="box-sizing: border-box; float: left; width: 50%;">
-  <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img2.png" width="200">
-<!--   <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img1.png" width="250">
-  <img src="https://github.com/JamesDHW/Unition/raw/master/img1.png" width="250">
-</div> -->
 <p align="center">
+  <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img1.png" width="250">
   <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img2.png" width="200">
+  <img src="https://github.com/JamesDHW/Unition/raw/master/img1.png" width="250">
 </p>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...natural language understanding...
