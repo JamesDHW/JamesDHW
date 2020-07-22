@@ -3,13 +3,9 @@
 ### ...analytical projects, Python, cleaning data...
 
 <p align="center">
-  <div style="box-sizing: border-box; float: left; width: 50%;">
-    <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img5.png" width="400">
-  </div>
-  <div style="box-sizing: border-box; float: left; width: 45%;">
-    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" width="200">
-    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" width="200">
-  </div>
+  <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img5.png" width="400">
+  <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" width="200">
+  <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" width="200">
 </p>
 
 ###     ...mobile apps, Android, Ionic, REST APIs...
