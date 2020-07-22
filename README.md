@@ -4,7 +4,7 @@
 
 ### ...analytical projects, Python, cleaning data...
 
-<div style="display:inline-block; float: left;">
+<div style="display:inline-block;">
   <div style="box-sizing: border-box; float: left; width: 50%;">
     <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png" width="400">
   </div>
@@ -17,6 +17,16 @@
 
 ### ...mobile apps, Android, Ionic, REST APIs...
 
+<div style="box-sizing: border-box; float: left; width: 50%;">
+  <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img2.png" width="300">
+  <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img1.png" width="300">
+</div>
+
 ### ...natural language understanding...
 
+
+
 ### ...machine learning...
+
+<img src="https://github.com/JamesDHW/ParticleAccelerator/raw/master/ANN.png" width="500">
+
