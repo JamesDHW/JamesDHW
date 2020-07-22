@@ -1,6 +1,4 @@
-### Hi there - thanks for visiting my Github page! 👋
-
-### Here are some of the things I do as a Physics & Computer Science graduate...
+### 👋 Here are some of the things I do as a Physics & Computer Science graduate...
 
 ### ...analytical projects, Python, cleaning data...
 
@@ -8,9 +6,9 @@
   <div style="box-sizing: border-box; float: left; width: 50%;">
     <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png" width="400">
   </div>
-  <div style="box-sizing: border-box; float: left; width: 50%;">
-    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" width="300">
-    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" width="300">
+  <div style="box-sizing: border-box; float: left; width: 45%;">
+    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" width="200">
+    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" width="200">
   </div>
 </div>
 
