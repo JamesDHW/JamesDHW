@@ -5,10 +5,10 @@
 ### ...analytical projects, Python, cleaning data...
 
 <div class="row">
-  <div class="column">
+  <div class="column" style="width: 50%">
     <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png">
   </div>
-  <div class="column">
+  <div class="column" style="width: 50%">
     <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png">
     <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png">
   </div>
