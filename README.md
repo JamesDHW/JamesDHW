@@ -6,11 +6,11 @@
 
 <div style="display: table; content: ""; clear: both;">
   <div style="width: 50%; float: left;">
-    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png" style="width: 50%">
+    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png">
   </div>
   <div style="width: 50%; float: left;">
-    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" style="width: 50%">
-    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" style="width: 50%">
+    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png">
+    <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png">
   </div>
 </div>
 
