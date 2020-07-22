@@ -9,6 +9,10 @@
 </p>
 
 <h3 style="text-align: center;">...mobile apps, Android, Ionic, REST APIs...</h3>
+<div align="center">
+
+# This is gonna be centered!
+</div>
 
 <p align="center">
   <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img1.png" width="150">
