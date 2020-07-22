@@ -4,11 +4,11 @@
 
 ### ...analytical projects, Python, cleaning data...
 
-<div class="row">
-  <div class="column" style="width: 50%">
+<div style="display: table;">
+  <div style="width: 50%">
     <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/attributes.png" style="width: 50%">
   </div>
-  <div class="column" style="width: 50%">
+  <div style="width: 50%">
     <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat2.png" style="width: 50%">
     <img src="https://github.com/JamesDHW/ParticleAccelerator/blob/master/Heat1.png" style="width: 50%">
   </div>
