@@ -26,7 +26,7 @@
 <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img3.png" width="600">
 
 ### ...machine learning...
-<div style="width:100%; align-content:center;">
+<div style="width:100%; display:block;">
   <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img4.png" width="400">
 </div>
 
