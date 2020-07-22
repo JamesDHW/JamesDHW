@@ -11,9 +11,9 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...mobile apps, Android, Ionic, REST APIs...
 
 <p align="center">
-  <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img1.png" width="250">
+  <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img1.png" width="150">
   <img src="https://github.com/JamesDHW/JamesDHW/blob/master/img2.png" width="200">
-  <img src="https://github.com/JamesDHW/Unition/raw/master/img1.png" width="250">
+  <img src="https://github.com/JamesDHW/Unition/raw/master/img1.png" width="150">
 </p>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...natural language understanding...
