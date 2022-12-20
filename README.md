@@ -18,6 +18,6 @@
 </a>
 
 <br>
-<a href='https://website-jamesdhw.vercel.app/'>
+<a href='https://www.jameshw.dev/'>
   Find out more about me here...
 </a>
