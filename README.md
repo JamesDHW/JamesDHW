@@ -1,9 +1,5 @@
 <br>
-<h1 align="center">Hello there, I'm James 👋</h1>
-<br>
-
-
-<h2>About me</h2>
+<h1>Hello there, I'm James 👋</h1>
 
 <a href='http://theodo.co.uk/' target="_blank">
   <img src='./static/theodo.svg'>
@@ -18,6 +14,5 @@
 </a>
 
 <br>
-<a href='https://www.jameshw.dev/'>
-  Find out more about me here...
-</a>
+
+### [Find out more about me here...](https://www.jameshw.dev/)
