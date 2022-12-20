@@ -37,7 +37,7 @@
                 .avatar {
                     margin-left: 10px;
                     margin-right: 25px;
-                    animation: float 7s infinite;
+                    animation: float 5s infinite;
                 }
 			</style>
             <div class="container">
