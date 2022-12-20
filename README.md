@@ -13,6 +13,4 @@
   <img src='./static/sheffield.svg'>
 </a>
 
-<br>
-
-### [Find out more about me here...](https://www.jameshw.dev/)
+## [Find out more about me here...](https://www.jameshw.dev/)
